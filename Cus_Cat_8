@@ -1,0 +1,2 @@
+select * from DB_JMW.SCH_JMW.CUS
+where category = 8;
